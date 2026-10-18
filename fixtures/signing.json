@@ -1,0 +1,7 @@
+{
+  "method": "POST",
+  "path": "/apps/app_1/events",
+  "query": {"auth_key":"ew_pk_test_abc","auth_timestamp":"1700000000","auth_version":"1.0"},
+  "body": "{\"name\":\"x\",\"channel\":\"news\",\"data\":{}}",
+  "secret": "ew_sk_test_FIXTURESECRET1234567890"
+}

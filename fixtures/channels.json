@@ -1,0 +1,9 @@
+[
+  {"in":"news","type":"public","namespace":"public","canonical":"news","internal":"public:news","auth":false,"presence":false,"encryption":false,"cache":false},
+  {"in":"private-user.123","type":"private","namespace":"private","canonical":"user.123","internal":"private:user.123","auth":true,"presence":false,"encryption":false,"cache":false},
+  {"in":"private-encrypted-chat.9","type":"private_encrypted","namespace":"encrypted","canonical":"chat.9","internal":"encrypted:chat.9","auth":true,"presence":false,"encryption":true,"cache":false},
+  {"in":"presence-doc.1","type":"presence","namespace":"presence","canonical":"doc.1","internal":"presence:doc.1","auth":true,"presence":true,"encryption":false,"cache":false},
+  {"in":"cache-stock.AAPL","type":"cache","namespace":"cache","canonical":"stock.AAPL","internal":"cache:stock.AAPL","auth":false,"presence":false,"encryption":false,"cache":true},
+  {"in":"private-cache-order.1","type":"private_cache","namespace":"private_cache","canonical":"order.1","internal":"private_cache:order.1","auth":true,"presence":false,"encryption":false,"cache":true},
+  {"in":"presence-cache-room.1","type":"presence_cache","namespace":"presence_cache","canonical":"room.1","internal":"presence_cache:room.1","auth":true,"presence":true,"encryption":false,"cache":true}
+]
